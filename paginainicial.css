@@ -1,0 +1,179 @@
+body{
+    color:rgb(255, 253, 253);
+    color: black;
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;                      
+}
+
+
+
+header{
+    background-color: #30379b;
+    color:white
+}
+
+
+
+header img {
+    text-align: left;
+    display: flex;
+}
+nav {
+    display:16px;
+    gap: 50px;
+    margin-left:60px;
+}
+
+header button{
+    background-color: azure;
+    text-align: center;
+    color:#30379b;
+}
+
+nav a {
+    color:rgb(255, 254, 254);
+    text-decoration:none;
+    font-size:18px;
+}
+
+ul{
+    display:flex;
+    justify-content:space-between ;
+    list-style-type:none;
+    align-items: center;
+    padding: 16px;  
+
+} 
+
+
+
+.center{
+    text-align:center;
+
+}
+
+.centralizado{
+    text-align: center;
+}
+
+.branco{
+    text-align: center;
+    display:flex;
+    flex-direction:inherit;
+    padding: 60px 20px;
+    width: 30%;
+}
+.lado img{
+width: 300px;
+height: 200px;
+align-items: center;flex-direction: row;
+
+ 
+}
+.lado{
+    justify-self: center;
+    align-items: center;
+    text-align: center;
+}
+.titulo{
+    text-align: center;
+}
+
+.reserva{
+    text-align:center;
+     color:white;
+      background-color: #30379b;
+     width: 200%;
+
+
+}
+
+.cardapio{
+    color:white;
+    text-align:center;
+     background-color: #30379b;
+     width:  10%;
+
+
+}
+.whatsapp {
+    display: flex;
+    display: flex;
+    text-align:center;
+    flex-direction:inherit;
+}
+
+.sexta {display: flex;
+    display: flex;
+    text-align: center;
+    flex-direction:column-reverse;
+
+}
+
+.telefone{display: flex;
+    display: flex;
+    text-align:inherit;
+    flex-direction:column;
+
+}
+
+.whatsapp{display: flex;
+    display: flex;
+    text-align:center;
+    flex-direction:column;
+
+}
+
+.dias{display: flex;
+    display: flex;
+    text-align:initial;
+    flex-direction:inherit;
+
+}
+
+.localizacao img{ 
+    width: 1400px;
+    height: 600px;
+    text-align: center;
+}
+
+.loc {
+    text-align: center;
+}
+
+.endereco {
+    text-align: center;
+    width: 100%;
+}
+
+.fundo{
+    background-color: #30379b;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    width: 90%;
+    height: 230px;
+
+}
+.cume img{
+    width: 170px;
+    height: 170px;
+  
+}
+.cume{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width: 300px;
+    height: 150px;
+    padding: 15%;
+    gap :20px;
+}
+.cume h1{
+    color: white;
+    height: 200px;
+    width: 500px;
+}
+
